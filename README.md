@@ -1,4 +1,4 @@
-# SQL-Project---Food-Startup-Analysis
+# Food Startup Analysis (SQL Project)
 Project Description:
 
 The goal of this project is to provide data-driven insights to assist in the decision-making process for a new food startup. The project involves analyzing data on restaurants in different sub-cities of a particular city to identify the most promising locations for a new food startup.
